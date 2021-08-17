@@ -1,0 +1,1534 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  height: 4324px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.index .rectangle-93-IO3Fu5 {
+  background-color: #01356a;
+  height: 992px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 954px;
+  width: 1440px;
+}
+
+.index .rectangle-94-IO3Fu5 {
+  background-color: #01356a;
+  height: 992px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2797px;
+  width: 1440px;
+}
+
+.index .local-navigatoin-IO3Fu5 {
+  background-color: transparent;
+  height: 25px;
+  left: 566px;
+  position: absolute;
+  top: 148px;
+  width: 635px;
+}
+
+.index .quick-links-Bxn22p {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .quick-links-Bxn22p:hover {
+  color: #4696FF
+}
+
+.index .wiki-Bxn22p {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .wiki-Bxn22p:hover {
+  color: #4696ff
+}
+
+.index .calanders-Bxn22p {
+  background-color: transparent;
+  height: auto;
+  left: 237px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .calanders-Bxn22p:hover {
+  color: #4696FF
+}
+
+.index .news-Bxn22p {
+  background-color: transparent;
+  height: auto;
+  left: 369px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .news-Bxn22p:hover {
+  color: #4696FF
+}
+
+.index .about-the-school-Bxn22p {
+  background-color: transparent;
+  height: auto;
+  left: 467px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .about-the-school-Bxn22p:hover {
+  color: #4696FF
+}
+
+.index .search-box-IO3Fu5 {
+  background-color: transparent;
+  height: 40px;
+  left: 965px;
+  position: absolute;
+  top: 80px;
+  width: 245px;
+}
+
+.index .rectangle-55-0ixf2z {
+  background-color: #4a4a4a;
+  height: 40px;
+  left: 163px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 78px;
+}
+
+.index .rectangle-55-0ixf2z:hover {
+  background-color: #424242
+}
+
+.index .go-0ixf2z {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 191px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: auto;
+}
+
+.index .rectangle-55-dpA8JO {
+  background-color: var(--midnight-blue);
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 143px;
+}
+
+.index .rectangle-55-dpA8JO:hover {
+  background-color: #286ec0
+}
+
+.index .search-0ixf2z {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 75px;
+}
+
+.index .vector-0ixf2z {
+  background-color: transparent;
+  height: 20px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 20px;
+}
+
+.index .home-IO3Fu5 {
+  background-color: transparent;
+  height: 128px;
+  left: 160px;
+  position: absolute;
+  top: 80px;
+  width: 235px;
+}
+
+.index .yale-logo-removebg-preview-1-NiAjMx {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 170px;
+}
+
+.index .title-NiAjMx {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-georgia-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.72px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 87px;
+  width: auto;
+}
+
+.index .hvnyal-omni-new-l-art-gallery-1-IO3Fu5 {
+  background-color: transparent;
+  height: 524px;
+  left: 400px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 298px;
+  width: 812px;
+}
+
+.index .floating-hero-text-IO3Fu5 {
+  background-color: transparent;
+  height: 400px;
+  left: 160px;
+  position: absolute;
+  top: 362px;
+  width: 444px;
+}
+
+.index .rectangle-57-ITI178 {
+  background-color: #f9f9f9;
+  height: 400px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 440px;
+}
+
+.index .school-of-art-ITI178 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-georgia-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: auto;
+}
+
+.index .the-yale-school-xisting-content-ITI178 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-gill_sans-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 94px;
+  width: 411px;
+}
+
+.index .calendars-newsletters-IO3Fu5 {
+  background-color: transparent;
+  color: var(--midnight-blue);
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1992px;
+  width: auto;
+}
+
+.index .paragragh-text-IO3Fu5 {
+  background-color: transparent;
+  height: 81px;
+  left: 197px;
+  position: absolute;
+  top: 2413px;
+  width: 689px;
+}
+
+.index .get-news-from-t-t-in-your-inbox-S0kc9e {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 571px;
+}
+
+.index .we-publish-two-e-academic-year-S0kc9e {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: 687px;
+}
+
+.index .global-navigation-IO3Fu5 {
+  background-color: transparent;
+  height: 21px;
+  left: 581px;
+  position: absolute;
+  top: 88px;
+  width: 356px;
+}
+
+.index .page-history-CG4HOT {
+  background-color: transparent;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 108px;
+}
+
+.index .page-history-CG4HOT:hover {
+  color: #4696FF
+}
+
+.index .log-in-CG4HOT {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 60px;
+}
+
+.index .log-in-CG4HOT:hover {
+  color: #4696FF
+}
+
+.index .edit-this-page-CG4HOT {
+  background-color: transparent;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 119px;
+}
+
+.index .edit-this-page-CG4HOT:hover {
+  color: #4696FF
+}
+
+.index .vector-CG4HOT {
+  background-color: transparent;
+  height: 4px;
+  left: 67px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.index .vector-QhEvbh {
+  background-color: transparent;
+  height: 4px;
+  left: 218px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.index .rectangle-61-IO3Fu5 {
+  background-color: #424242;
+  height: 535px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3789px;
+  width: 1440px;
+}
+
+.index .yale-white2x-1-IO3Fu5 {
+  background-color: transparent;
+  height: 120px;
+  left: 160px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3807px;
+  width: 120px;
+}
+
+.index .line-49-IO3Fu5 {
+  background-color: transparent;
+  height: 2px;
+  left: 170px;
+  position: absolute;
+  top: 4214px;
+  width: 1112px;
+}
+
+.index .footer-navigation-IO3Fu5 {
+  background-color: transparent;
+  height: 220px;
+  left: 280px;
+  position: absolute;
+  top: 3947px;
+  width: 890px;
+}
+
+.index .visiting-campus-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index .helpful-links-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 350px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index .support-the-school-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 350px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .support-the-school-C4bGgW:hover {
+  color: #56A0FF
+}
+
+.index .more-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 694px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 197px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .more-C4bGgW:hover {
+  color: #56A0FF
+}
+
+.index .campus-life-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .campus-life-C4bGgW:hover {
+  color: #56A0FF
+}
+
+.index .contact-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 350px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .contact-C4bGgW:hover {
+  color: #56A0FF
+}
+
+.index .location-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .location-C4bGgW:hover {
+  color: #56A0FF
+}
+
+.index .sitemap-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 350px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 151px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .sitemap-C4bGgW:hover {
+  color: #56A0FF
+}
+
+.index .accessibility-at-yale-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 350px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 197px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.index .accessibility-at-yale-C4bGgW:hover {
+  color: #56A0FF
+}
+
+.index .social-media-C4bGgW {
+  background-color: transparent;
+  height: auto;
+  left: 700px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index .line-50-C4bGgW {
+  background-color: transparent;
+  height: 3px;
+  left: -0px;
+  position: absolute;
+  top: 30px;
+  width: 66px;
+}
+
+.index .line-51-C4bGgW {
+  background-color: transparent;
+  height: 2px;
+  left: 350px;
+  position: absolute;
+  top: 30px;
+  width: 66px;
+}
+
+.index .line-52-C4bGgW {
+  background-color: transparent;
+  height: 2px;
+  left: 700px;
+  position: absolute;
+  top: 30px;
+  width: 66px;
+}
+
+.index .instagram-C4bGgW {
+  background-color: transparent;
+  height: 40px;
+  left: 701px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.index .instagram-C4bGgW:hover {
+}
+
+.index .youtibe-C4bGgW {
+  background-color: transparent;
+  height: 40px;
+  left: 812px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 59px;
+  width: 58px;
+}
+
+.index .vector-C4bGgW {
+  background-color: transparent;
+  height: 40px;
+  left: 701px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 133px;
+  width: 50px;
+}
+
+.index .vector-fxGmtW {
+  background-color: transparent;
+  height: 40px;
+  left: 812px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 133px;
+  width: 58px;
+}
+
+.index .footer-paragrach-IO3Fu5 {
+  background-color: transparent;
+  height: 23px;
+  left: 171px;
+  position: absolute;
+  top: 4245px;
+  width: 668px;
+}
+
+.index .copyright-2021-y-school-of-art-hdLIs5 {
+  background-color: transparent;
+  color: #919191;
+  font-family: var(--font-family-gill_sans-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 415px;
+}
+
+.index .all-rights-reserved-hdLIs5 {
+  background-color: transparent;
+  color: #919191;
+  font-family: var(--font-family-gill_sans-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 477px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 189px;
+}
+
+.index .vector-hdLIs5 {
+  background-color: transparent;
+  height: 6px;
+  left: 426px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.index .card-1-IO3Fu5 {
+  background-color: transparent;
+  height: 320px;
+  left: 197px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1095px;
+  transition: all 0.2s ease;
+  width: 452px;
+}
+
+.index .card-1-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-64-tWOjy3 {
+  background-color: var(--black);
+  height: 320px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.index .x76cb241982fbbd1-7e37a1a063ca0-1-tWOjy3 {
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.index .robert-storr-retires-from-yale-tWOjy3 {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 275px;
+  width: auto;
+}
+
+.index .card-2-IO3Fu5 {
+  background-color: transparent;
+  height: 320px;
+  left: 793px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1095px;
+  transition: all 0.2s ease;
+  width: 452px;
+}
+
+.index .card-2-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-64-ZquPJo {
+  background-color: var(--black);
+  height: 320px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.index .dsc0816900xx4912-3280-0-673-1-ZquPJo {
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.index .kymberly-pinder-e-school-of-art-ZquPJo {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+
+.index .card-3-IO3Fu5 {
+  background-color: transparent;
+  height: 320px;
+  left: 197px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1493px;
+  transition: all 0.2s ease;
+  width: 452px;
+}
+
+.index .card-3-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-64-0pP5ve {
+  background-color: var(--black);
+  height: 320px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.index .x01-20210523049a4444-1-0pP5ve {
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.index .congradulations-class-of-2021-0pP5ve {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 273px;
+  width: auto;
+}
+
+.index .card-4-IO3Fu5 {
+  background-color: transparent;
+  height: 320px;
+  left: 793px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1493px;
+  transition: all 0.2s ease;
+  width: 452px;
+}
+
+.index .card-4-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-64-B0E1tT {
+  background-color: var(--black);
+  height: 320px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.index .yale-universit--haven2015-1-B0E1tT {
+  background-color: transparent;
+  height: 320px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+
+.index .x2021-mfa-open-studio-now-live-B0E1tT {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 252px;
+  width: auto;
+}
+
+.index .school-news-IO3Fu5 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1010px;
+  width: 277px;
+}
+
+.index .card-5-IO3Fu5 {
+  background-color: transparent;
+  height: 240px;
+  left: 197px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2077px;
+  transition: all 0.2s ease;
+  width: 319px;
+}
+
+.index .card-5-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-68-d21o32 {
+  background-color: var(--black);
+  height: 240px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 317px;
+}
+
+.index .x25s-w5-bo-woab-helllargecopy-1-d21o32 {
+  background-color: transparent;
+  height: 240px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 317px;
+}
+
+.index .school-of-art-in-the-world-d21o32 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 179px;
+  width: auto;
+}
+
+.index .card-6-IO3Fu5 {
+  background-color: transparent;
+  height: 240px;
+  left: 564px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2077px;
+  transition: all 0.2s ease;
+  width: 319px;
+}
+
+.index .card-6-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-69-Aev0k1 {
+  background-color: var(--black);
+  height: 240px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 317px;
+}
+
+.index .x001-1-Aev0k1 {
+  background-color: transparent;
+  height: 240px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 317px;
+}
+
+.index .community-calendar-Aev0k1 {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 187px;
+  width: auto;
+}
+
+.index .card-7-IO3Fu5 {
+  background-color: transparent;
+  height: 240px;
+  left: 931px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2077px;
+  transition: all 0.2s ease;
+  width: 319px;
+}
+
+.index .card-7-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-70-F4GW3H {
+  background-color: var(--black);
+  height: 240px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 317px;
+}
+
+.index .x5b788f8dd4f4e-1-F4GW3H {
+  background-color: transparent;
+  height: 240px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 317px;
+}
+
+.index .public-calendar-F4GW3H {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 192px;
+  width: auto;
+}
+
+.index .community-bulletin-board-IO3Fu5 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2845px;
+  width: 406px;
+}
+
+.index .paragragh-text-865xPf {
+  background-color: transparent;
+  height: 406px;
+  left: 154px;
+  position: absolute;
+  top: 2938px;
+  width: 1100px;
+}
+
+.index .falculty-and-al-undergraduates-TUJHli {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.index .the-yale-arts-a-e-summer-months-TUJHli {
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 1090px;
+}
+
+.index .those-8-weeks-d-derek-i-webster-TUJHli {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 231px;
+  width: 1093px;
+}
+
+.index .span0-UQlDdU {
+}
+
+.index .span1-UQlDdU {
+  text-decoration: underline;
+}
+
+.index .span2-UQlDdU {
+}
+
+.index .span3-UQlDdU {
+  text-decoration: underline;
+}
+
+.index .card-9-IO3Fu5 {
+  background-color: transparent;
+  height: 225px;
+  left: 834px;
+  pointer-events: auto;
+  position: absolute;
+  top: 3434px;
+  transition: all 0.2s ease;
+  width: 351px;
+}
+
+.index .card-9-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-72-aUgS71 {
+  background-color: var(--black);
+  height: 225px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 349px;
+}
+
+.index .yale-physics-day-1-aUgS71 {
+  background-color: transparent;
+  height: 225px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 349px;
+}
+
+.index .add-your-projec-oughts-etc-here-aUgS71 {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 150px;
+  width: auto;
+}
+
+.index .card-8-IO3Fu5 {
+  background-color: transparent;
+  height: 225px;
+  left: 258px;
+  pointer-events: auto;
+  position: absolute;
+  top: 3434px;
+  transition: all 0.2s ease;
+  width: 351px;
+}
+
+.index .card-8-IO3Fu5:hover {
+  transform: scale(1.1);
+}
+
+.index .rectangle-71-i3SzYS {
+  background-color: var(--black);
+  height: 225px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 349px;
+}
+
+.index .screen-shot-202-08-11-at-428-1-i3SzYS {
+  background-color: transparent;
+  height: 225px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 349px;
+}
+
+.index .edit-the-homepage-i3SzYS {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 171px;
+  width: auto;
+}
+
+.index .news-cta-IO3Fu5 {
+  background-color: transparent;
+  height: 40px;
+  left: 1055px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1853px;
+  transition: all 0.2s ease;
+  width: 190px;
+}
+
+.index .news-cta-IO3Fu5:hover {
+  transform: translate(5px, 0);
+}
+
+.index .rectangle-90-Z96qZw {
+  background-color: #d6e8ff;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 188px;
+}
+
+.index .explore-all-news-Z96qZw {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: auto;
+}
+
+.index .vector-Z96qZw {
+  background-color: transparent;
+  height: 11px;
+  left: 153px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.index .subscribe-cta-IO3Fu5 {
+  background-color: transparent;
+  height: 91px;
+  left: 367px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2566px;
+  transition: all 0.2s ease;
+  width: 295px;
+}
+
+.index .subscribe-cta-IO3Fu5:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.index .rectangle-91-W8xTVV {
+  background-color: var(--midnight-blue);
+  height: 91px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.index .subscribe-to-ne-from-new-haven-W8xTVV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: auto;
+}
+
+.index .subscribe-cta-865xPf {
+  background-color: transparent;
+  height: 91px;
+  left: 780px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2566px;
+  transition: all 0.2s ease;
+  width: 295px;
+}
+
+.index .subscribe-cta-865xPf:hover {
+  transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.index .rectangle-92-sr8Zfo {
+  background-color: var(--midnight-blue);
+  height: 91px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.index .subscribe-to-week-at-so-a-sr8Zfo {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: auto;
+}
+
+.index .public-monthly-newsletter-IO3Fu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2671px;
+  width: auto;
+}
+
+.index .community-only-newsletter-IO3Fu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 805px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2671px;
+  width: auto;
+}

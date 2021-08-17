@@ -1,0 +1,58 @@
+:root { 
+  --black: #000000;
+  --midnight-blue: #01366a;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 16px;
+  --font-size-xl: 22px;
+  --font-size-xxl: 36px;
+ 
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-georgia-regular: "Georgia-Regular", Helvetica;
+  --font-family-gill_sans-regular: "Gill Sans-Regular", Helvetica;
+  --font-family-gill_sans-semibold: "Gill Sans-SemiBold", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-times_new_roman-regular: "Times New Roman-Regular", Helvetica;
+}
+.gillsans-regular-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-gill_sans-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsans-semi-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-gill_sans-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.arial-regular-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsans-regular-normal-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-gill_sans-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gillsans-regular-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-gill_sans-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
